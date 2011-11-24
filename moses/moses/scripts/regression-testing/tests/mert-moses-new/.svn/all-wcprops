@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mosesdecoder/!svn/ver/2570/trunk/scripts/regression-testing/tests/mert-moses-new
+END
+input
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new/input
+END
+moses.ini
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new/moses.ini
+END
+filter-stdout
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new/filter-stdout
+END
+filter-stderr
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new/filter-stderr
+END
+reference.0
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new/reference.0
+END
+reference.1
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new/reference.1
+END
+command
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mosesdecoder/!svn/ver/2570/trunk/scripts/regression-testing/tests/mert-moses-new/command
+END
+reference.2
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new/reference.2
+END

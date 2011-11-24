@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mosesdecoder/!svn/ver/2554/trunk/mert/regression-testing/tests/mert-basic
+END
+filter-stdout
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/tests/mert-basic/filter-stdout
+END
+filter-stderr
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/tests/mert-basic/filter-stderr
+END
+command
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/tests/mert-basic/command
+END

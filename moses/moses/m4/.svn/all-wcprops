@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/mosesdecoder/!svn/ver/2477/trunk/m4
+END
+ax_boost_thread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/2477/trunk/m4/ax_boost_thread.m4
+END
+ax_boost_base.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/2477/trunk/m4/ax_boost_base.m4
+END
+ax_xmlrpc_c.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mosesdecoder/!svn/ver/2477/trunk/m4/ax_xmlrpc_c.m4
+END

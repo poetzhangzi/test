@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data
+END
+run1.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/2563/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run1.TRANS.out
+END
+run2.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/2563/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run2.TRANS.out
+END
+run3.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/2563/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run3.TRANS.out
+END
+run1.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run1.NBEST.out.gz
+END
+run4.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/2563/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run4.TRANS.out
+END
+run2.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run2.NBEST.out.gz
+END
+run5.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/2563/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run5.TRANS.out
+END
+run3.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run3.NBEST.out.gz
+END
+run6.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/2563/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run6.TRANS.out
+END
+run4.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run4.NBEST.out.gz
+END
+run7.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/2563/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run7.TRANS.out
+END
+run5.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run5.NBEST.out.gz
+END
+run8.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/2563/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run8.TRANS.out
+END
+run6.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run6.NBEST.out.gz
+END
+run9.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/2563/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run9.TRANS.out
+END
+run7.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run7.NBEST.out.gz
+END
+archive.list
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/mosesdecoder/!svn/ver/2563/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/archive.list
+END
+run8.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run8.NBEST.out.gz
+END
+run9.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run9.NBEST.out.gz
+END
+run10.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/mosesdecoder/!svn/ver/2563/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run10.TRANS.out
+END
+run11.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/mosesdecoder/!svn/ver/2563/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run11.TRANS.out
+END
+run12.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/mosesdecoder/!svn/ver/2563/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run12.TRANS.out
+END
+run13.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/mosesdecoder/!svn/ver/2563/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run13.TRANS.out
+END
+run10.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run10.NBEST.out.gz
+END
+run14.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/mosesdecoder/!svn/ver/2563/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run14.TRANS.out
+END
+run11.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run11.NBEST.out.gz
+END
+run12.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run12.NBEST.out.gz
+END
+run13.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run13.NBEST.out.gz
+END
+run14.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-aggregate/data/run14.NBEST.out.gz
+END

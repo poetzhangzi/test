@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mosesdecoder/!svn/ver/3054/trunk/scripts/training/lexical-reordering
+END
+reordering_classes.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mosesdecoder/!svn/ver/3002/trunk/scripts/training/lexical-reordering/reordering_classes.h
+END
+score.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mosesdecoder/!svn/ver/3002/trunk/scripts/training/lexical-reordering/score.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/3002/trunk/scripts/training/lexical-reordering/Makefile
+END
+reordering_classes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mosesdecoder/!svn/ver/3054/trunk/scripts/training/lexical-reordering/reordering_classes.cpp
+END

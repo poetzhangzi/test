@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/1790/trunk/hypergraph-prototype/attempt1/org/statmt/hg4
+END
+VertexSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mosesdecoder/!svn/ver/1790/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/VertexSignature.java
+END
+ExplorationAgenda.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/mosesdecoder/!svn/ver/1756/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/ExplorationAgenda.java
+END
+PBCandidateGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/mosesdecoder/!svn/ver/1763/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/PBCandidateGenerator.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mosesdecoder/!svn/ver/1790/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/Decoder.java
+END
+PTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mosesdecoder/!svn/ver/1684/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/PTable.java
+END
+HypergraphTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/mosesdecoder/!svn/ver/1790/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/HypergraphTraverser.java
+END
+Hypergraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mosesdecoder/!svn/ver/1790/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/Hypergraph.java
+END
+APPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mosesdecoder/!svn/ver/1756/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/APPair.java
+END
+Vertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mosesdecoder/!svn/ver/1686/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/Vertex.java
+END
+Hyperarc.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mosesdecoder/!svn/ver/1686/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/Hyperarc.java
+END
+FinishingAgenda.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mosesdecoder/!svn/ver/1790/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/FinishingAgenda.java
+END
+VertexState.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mosesdecoder/!svn/ver/1790/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/VertexState.java
+END
+DumbPBSearchPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/mosesdecoder/!svn/ver/1790/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/DumbPBSearchPolicy.java
+END
+VertexSignatureCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/mosesdecoder/!svn/ver/1790/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/VertexSignatureCreator.java
+END
+Phrase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mosesdecoder/!svn/ver/1790/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/Phrase.java
+END
+SearchStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mosesdecoder/!svn/ver/1790/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/SearchStrategy.java
+END
+VertexGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mosesdecoder/!svn/ver/1790/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/VertexGroup.java
+END
+DumbPBSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mosesdecoder/!svn/ver/1790/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/DumbPBSignature.java
+END
+Coverage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mosesdecoder/!svn/ver/1790/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/Coverage.java
+END
+HyperarcVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mosesdecoder/!svn/ver/1790/trunk/hypergraph-prototype/attempt1/org/statmt/hg4/HyperarcVisitor.java
+END

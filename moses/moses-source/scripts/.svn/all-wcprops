@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/mosesdecoder/!svn/ver/3386/trunk/scripts
+END
+MakefileWIN32
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/1299/trunk/scripts/MakefileWIN32
+END
+released-files
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/3267/trunk/scripts/released-files
+END
+released-filesWIN32
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/3242/trunk/scripts/released-filesWIN32
+END
+check-dependencies.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/1331/trunk/scripts/check-dependencies.pl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mosesdecoder/!svn/ver/431/trunk/scripts/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/3262/trunk/scripts/Makefile
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mosesdecoder/!svn/ver/609/trunk/scripts/.cvsignore
+END
+check-dependenciesWIN32.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/1331/trunk/scripts/check-dependenciesWIN32.pl
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.multi-factor-drop
+END
+dropize_phrase_table.pl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.multi-factor-drop/dropize_phrase_table.pl
+END
+filter-stdout.pl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.multi-factor-drop/filter-stdout.pl
+END
+filter-stderr.pl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.multi-factor-drop/filter-stderr.pl
+END
+moses.ini
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.multi-factor-drop/moses.ini
+END
+to-translate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.multi-factor-drop/to-translate.txt
+END

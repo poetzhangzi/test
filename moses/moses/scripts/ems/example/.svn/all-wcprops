@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/3284/trunk/scripts/ems/example
+END
+config.toy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/mosesdecoder/!svn/ver/3284/trunk/scripts/ems/example/config.toy
+END
+config.hierarchical
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mosesdecoder/!svn/ver/3284/trunk/scripts/ems/example/config.hierarchical
+END
+config.basic
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/3284/trunk/scripts/ems/example/config.basic
+END
+config.syntax
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/3284/trunk/scripts/ems/example/config.syntax
+END
+config.factored
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mosesdecoder/!svn/ver/3284/trunk/scripts/ems/example/config.factored
+END

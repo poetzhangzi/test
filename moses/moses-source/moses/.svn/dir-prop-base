@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 122
+.cdtproject
+.cvsignore
+autom4te.cache
+stamp-h1
+Makefile.in
+config.h
+config.status
+Makefile
+Debug*
+Release*
+.deps
+configure
+END

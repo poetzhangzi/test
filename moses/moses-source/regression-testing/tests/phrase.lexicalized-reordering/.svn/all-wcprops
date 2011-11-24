@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lexicalized-reordering
+END
+filter-stdout.pl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lexicalized-reordering/filter-stdout.pl
+END
+filter-stderr.pl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lexicalized-reordering/filter-stderr.pl
+END
+moses.ini
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lexicalized-reordering/moses.ini
+END
+to-translate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lexicalized-reordering/to-translate.txt
+END

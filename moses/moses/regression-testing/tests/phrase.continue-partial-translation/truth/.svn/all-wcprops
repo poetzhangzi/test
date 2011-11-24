@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mosesdecoder/!svn/ver/3222/trunk/regression-testing/tests/phrase.continue-partial-translation/truth
+END
+results.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/mosesdecoder/!svn/ver/3222/trunk/regression-testing/tests/phrase.continue-partial-translation/truth/results.txt
+END

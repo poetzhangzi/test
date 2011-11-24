@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.basic-surface-binptable/truth
+END
+results.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.basic-surface-binptable/truth/results.txt
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/3262/trunk/scripts/training/wrappers
+END
+make-factor-stem.perl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mosesdecoder/!svn/ver/3262/trunk/scripts/training/wrappers/make-factor-stem.perl
+END
+parse-de-bitpar.perl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mosesdecoder/!svn/ver/3224/trunk/scripts/training/wrappers/parse-de-bitpar.perl
+END
+make-factor-en-pos.mxpost.perl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mosesdecoder/!svn/ver/3262/trunk/scripts/training/wrappers/make-factor-en-pos.mxpost.perl
+END
+parse-en-collins.perl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mosesdecoder/!svn/ver/3224/trunk/scripts/training/wrappers/parse-en-collins.perl
+END
+make-factor-pos.tree-tagger.perl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mosesdecoder/!svn/ver/3262/trunk/scripts/training/wrappers/make-factor-pos.tree-tagger.perl
+END

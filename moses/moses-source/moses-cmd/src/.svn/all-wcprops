@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mosesdecoder/!svn/ver/3358/trunk/moses-cmd/src
+END
+mbr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/3246/trunk/moses-cmd/src/mbr.cpp
+END
+ThreadPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/3264/trunk/moses-cmd/src/ThreadPool.cpp
+END
+TranslationAnalysis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mosesdecoder/!svn/ver/3358/trunk/moses-cmd/src/TranslationAnalysis.cpp
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/3358/trunk/moses-cmd/src/Main.cpp
+END
+mbr.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/3246/trunk/moses-cmd/src/mbr.h
+END
+LatticeMBR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/3268/trunk/moses-cmd/src/LatticeMBR.cpp
+END
+ThreadPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mosesdecoder/!svn/ver/3264/trunk/moses-cmd/src/ThreadPool.h
+END
+TranslationAnalysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses-cmd/src/TranslationAnalysis.h
+END
+IOWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/3264/trunk/moses-cmd/src/IOWrapper.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/3274/trunk/moses-cmd/src/Makefile.am
+END
+Main.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses-cmd/src/Main.h
+END
+LatticeMBR.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mosesdecoder/!svn/ver/3268/trunk/moses-cmd/src/LatticeMBR.h
+END
+LatticeMBRGrid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses-cmd/src/LatticeMBRGrid.cpp
+END
+IOWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/3264/trunk/moses-cmd/src/IOWrapper.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/tests/extractor-bin/data
+END
+nbest.1.gz
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/tests/extractor-bin/data/nbest.1.gz
+END
+nbest.2.gz
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/tests/extractor-bin/data/nbest.2.gz
+END
+nbest.3.gz
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/tests/extractor-bin/data/nbest.3.gz
+END
+nbest.4.gz
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/tests/extractor-bin/data/nbest.4.gz
+END
+nbest.5.gz
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/tests/extractor-bin/data/nbest.5.gz
+END
+reference
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/tests/extractor-bin/data/reference
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/3386/trunk/scripts/training
+END
+absolutize_moses_model.pl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mosesdecoder/!svn/ver/3150/trunk/scripts/training/absolutize_moses_model.pl
+END
+clean-corpus-n.perl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/clean-corpus-n.perl
+END
+mert-moses-new.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/3384/trunk/scripts/training/mert-moses-new.pl
+END
+analyse_moses_model.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mosesdecoder/!svn/ver/3082/trunk/scripts/training/analyse_moses_model.pl
+END
+zmert-moses.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/3214/trunk/scripts/training/zmert-moses.pl
+END
+filter-model-given-input.pl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/3284/trunk/scripts/training/filter-model-given-input.pl
+END
+clone_moses_model.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mosesdecoder/!svn/ver/3150/trunk/scripts/training/clone_moses_model.pl
+END
+postprocess-lopar.perl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mosesdecoder/!svn/ver/1307/trunk/scripts/training/postprocess-lopar.perl
+END
+mert-moses.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/mosesdecoder/!svn/ver/3151/trunk/scripts/training/mert-moses.pl
+END
+filter-rule-table.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/filter-rule-table.py
+END
+combine_factors.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mosesdecoder/!svn/ver/3262/trunk/scripts/training/combine_factors.pl
+END
+exodus.perl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/1308/trunk/scripts/training/exodus.perl
+END
+train-model.perl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/3376/trunk/scripts/training/train-model.perl
+END
+reduce_combine.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/2082/trunk/scripts/training/reduce_combine.pl
+END
+build-generation-table.perl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/1307/trunk/scripts/training/build-generation-table.perl
+END

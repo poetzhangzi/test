@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mosesdecoder/!svn/ver/3247/trunk/scripts/ems/web
+END
+setup
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/2724/trunk/scripts/ems/web/setup
+END
+analysis_diff.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/3224/trunk/scripts/ems/web/analysis_diff.php
+END
+comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/2724/trunk/scripts/ems/web/comment.php
+END
+analysis.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/3247/trunk/scripts/ems/web/analysis.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/3247/trunk/scripts/ems/web/lib.php
+END
+overview.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/3224/trunk/scripts/ems/web/overview.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/3244/trunk/scripts/ems/web/index.php
+END
+diff.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mosesdecoder/!svn/ver/3224/trunk/scripts/ems/web/diff.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mosesdecoder/!svn/ver/3063/trunk/misc/pmoses
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/3063/trunk/misc/pmoses/configure
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mosesdecoder/!svn/ver/3063/trunk/misc/pmoses/configure.ac
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/3063/trunk/misc/pmoses/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/3063/trunk/misc/pmoses/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/3063/trunk/misc/pmoses/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/3063/trunk/misc/pmoses/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/3063/trunk/misc/pmoses/Makefile.am
+END
+pmoses.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/3063/trunk/misc/pmoses/pmoses.cc
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/3063/trunk/misc/pmoses/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/3063/trunk/misc/pmoses/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/3063/trunk/misc/pmoses/README
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.nbest-multi-factor
+END
+filter-stdout.pl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.nbest-multi-factor/filter-stdout.pl
+END
+filter-stderr.pl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.nbest-multi-factor/filter-stderr.pl
+END
+moses.ini
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.nbest-multi-factor/moses.ini
+END
+filter-nbest.pl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.nbest-multi-factor/filter-nbest.pl
+END
+to-translate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.nbest-multi-factor/to-translate.txt
+END

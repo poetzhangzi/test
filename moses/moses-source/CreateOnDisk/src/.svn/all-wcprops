@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/3366/trunk/CreateOnDisk/src
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/3366/trunk/CreateOnDisk/src/Main.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/CreateOnDisk/src/Makefile.am
+END
+Main.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/CreateOnDisk/src/Main.h
+END

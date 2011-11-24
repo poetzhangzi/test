@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mosesdecoder/!svn/ver/3222/trunk/regression-testing/tests/phrase.continue-partial-translation
+END
+filter-stdout.pl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/3220/trunk/regression-testing/tests/phrase.continue-partial-translation/filter-stdout.pl
+END
+filter-stderr.pl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/3220/trunk/regression-testing/tests/phrase.continue-partial-translation/filter-stderr.pl
+END
+moses.ini
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/mosesdecoder/!svn/ver/3220/trunk/regression-testing/tests/phrase.continue-partial-translation/moses.ini
+END
+to-translate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/3222/trunk/regression-testing/tests/phrase.continue-partial-translation/to-translate.txt
+END

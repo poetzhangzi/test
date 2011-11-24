@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/mosesdecoder/!svn/ver/3387/trunk
+END
+BUILD-INSTRUCTIONS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/1919/trunk/BUILD-INSTRUCTIONS.txt
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mosesdecoder/!svn/ver/794/trunk/mkinstalldirs
+END
+validate_revision.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/895/trunk/validate_revision.sh
+END
+moses.sln
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses.sln
+END
+make-release-tarball.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/795/trunk/make-release-tarball.sh
+END
+validate_more_revisions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/869/trunk/validate_more_revisions.sh
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mosesdecoder/!svn/ver/3308/trunk/configure.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/mosesdecoder/!svn/ver/794/trunk/depcomp
+END
+regenerate-makefiles.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/3266/trunk/regenerate-makefiles.sh
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mosesdecoder/!svn/ver/2477/trunk/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/mosesdecoder/!svn/ver/794/trunk/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/mosesdecoder/!svn/ver/2477/trunk/config.sub
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mosesdecoder/!svn/ver/3308/trunk/config.h.in
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/mosesdecoder/!svn/ver/3148/trunk/.gitignore
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/mosesdecoder/!svn/ver/1593/trunk/missing
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/mosesdecoder/!svn/ver/794/trunk/install-sh
+END

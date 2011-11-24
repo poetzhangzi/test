@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mosesdecoder/!svn/ver/2571/trunk/scripts/regression-testing/tests/mert-moses-new-nocase
+END
+input
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/input
+END
+moses.ini
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/moses.ini
+END
+filter-stdout
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/filter-stdout
+END
+filter-stderr
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/filter-stderr
+END
+reference.0
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/reference.0
+END
+reference.1
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/reference.1
+END
+command
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/mosesdecoder/!svn/ver/2571/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/command
+END
+reference.2
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/reference.2
+END

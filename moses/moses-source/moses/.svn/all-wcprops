@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/mosesdecoder/!svn/ver/3381/trunk/moses
+END
+.cdtproject
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mosesdecoder/!svn/ver/1848/trunk/moses/.cdtproject
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mosesdecoder/!svn/ver/1848/trunk/moses/.project
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mosesdecoder/!svn/ver/3015/trunk/moses/.cproject
+END
+.cdtbuild
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mosesdecoder/!svn/ver/1848/trunk/moses/.cdtbuild
+END
+moses.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/3359/trunk/moses/moses.vcproj
+END

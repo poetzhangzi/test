@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mosesdecoder/!svn/ver/1307/trunk/scripts/tests
+END
+train-factored-test-step9.test
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/1307/trunk/scripts/tests/train-factored-test-step9.test
+END
+full-train-mert-decode.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mosesdecoder/!svn/ver/1307/trunk/scripts/tests/full-train-mert-decode.test
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/727/trunk/scripts/tests/README
+END

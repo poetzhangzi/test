@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src
+END
+TargetPhrase.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src/TargetPhrase.h
+END
+Vocab.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src/Vocab.h
+END
+SourcePhrase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src/SourcePhrase.cpp
+END
+TargetPhraseCollection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src/TargetPhraseCollection.cpp
+END
+SourcePhrase.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src/SourcePhrase.h
+END
+TargetPhraseCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src/TargetPhraseCollection.h
+END
+Word.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src/Word.cpp
+END
+Word.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src/Word.h
+END
+Phrase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src/Phrase.cpp
+END
+Phrase.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src/Phrase.h
+END
+PhraseNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src/PhraseNode.cpp
+END
+OnDiskWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src/OnDiskWrapper.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mosesdecoder/!svn/ver/3121/trunk/OnDiskPt/src/Makefile.am
+END
+TargetPhrase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src/TargetPhrase.cpp
+END
+Vocab.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src/Vocab.cpp
+END
+PhraseNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src/PhraseNode.h
+END
+OnDiskWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/OnDiskPt/src/OnDiskWrapper.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/2556/trunk/mert/regression-testing
+END
+compare-results.pl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/compare-results.pl
+END
+MertRegressionTesting.pm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/MertRegressionTesting.pm
+END
+run-test-suite
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/run-test-suite
+END
+run-single-test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/run-single-test.pl
+END

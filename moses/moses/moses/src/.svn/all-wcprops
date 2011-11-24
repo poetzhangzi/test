@@ -1,0 +1,1241 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/mosesdecoder/!svn/ver/3381/trunk/moses/src
+END
+FactorTypeSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/FactorTypeSet.h
+END
+UniqueObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/UniqueObject.h
+END
+DecodeStepTranslation.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/DecodeStepTranslation.h
+END
+PhraseDictionaryTreeAdaptor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mosesdecoder/!svn/ver/2477/trunk/moses/src/PhraseDictionaryTreeAdaptor.cpp
+END
+Hypothesis.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/3257/trunk/moses/src/Hypothesis.h
+END
+Sentence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/3222/trunk/moses/src/Sentence.cpp
+END
+DecodeGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/DecodeGraph.cpp
+END
+FilePtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/FilePtr.h
+END
+TargetPhraseCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/TargetPhraseCollection.h
+END
+Util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/2399/trunk/moses/src/Util.cpp
+END
+PhraseDictionaryNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/2477/trunk/moses/src/PhraseDictionaryNode.cpp
+END
+DynSuffixArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/DynSuffixArray.cpp
+END
+TreeInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/TreeInput.cpp
+END
+PhraseDictionaryOnDisk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/PhraseDictionaryOnDisk.cpp
+END
+NGramCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/NGramCollection.h
+END
+WordLattice.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/WordLattice.h
+END
+HypothesisStackCubePruning.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mosesdecoder/!svn/ver/3246/trunk/moses/src/HypothesisStackCubePruning.cpp
+END
+TranslationOption.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/3256/trunk/moses/src/TranslationOption.cpp
+END
+HypothesisStack.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/HypothesisStack.h
+END
+LanguageModelFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/3201/trunk/moses/src/LanguageModelFactory.cpp
+END
+TrellisPathList.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/3246/trunk/moses/src/TrellisPathList.h
+END
+Hypothesis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mosesdecoder/!svn/ver/3358/trunk/moses/src/Hypothesis.cpp
+END
+FFState.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/FFState.h
+END
+LanguageModelRandLM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/LanguageModelRandLM.cpp
+END
+LanguageModelParallelBackoff.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/LanguageModelParallelBackoff.h
+END
+LanguageModelSingleFactor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mosesdecoder/!svn/ver/1897/trunk/moses/src/LanguageModelSingleFactor.cpp
+END
+ChartRuleCollection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/ChartRuleCollection.cpp
+END
+PhraseDictionaryMemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/3138/trunk/moses/src/PhraseDictionaryMemory.h
+END
+TranslationOptionCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mosesdecoder/!svn/ver/3257/trunk/moses/src/TranslationOptionCollection.h
+END
+TranslationOptionCollectionText.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mosesdecoder/!svn/ver/2343/trunk/moses/src/TranslationOptionCollectionText.cpp
+END
+LanguageModelJoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/LanguageModelJoint.h
+END
+PhraseDictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/3138/trunk/moses/src/PhraseDictionary.h
+END
+DummyScoreProducers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/3222/trunk/moses/src/DummyScoreProducers.cpp
+END
+SearchNormal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/SearchNormal.cpp
+END
+WordConsumed.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/WordConsumed.h
+END
+PhraseDictionarySCFG.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/PhraseDictionarySCFG.h
+END
+PrefixTreeMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/PrefixTreeMap.h
+END
+Timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/Timer.cpp
+END
+PhraseDictionaryNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/PhraseDictionaryNode.h
+END
+DynSuffixArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/DynSuffixArray.h
+END
+Parameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/3253/trunk/moses/src/Parameter.h
+END
+PhraseDictionaryNodeSCFG.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/PhraseDictionaryNodeSCFG.h
+END
+GenerationDictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/GenerationDictionary.h
+END
+PhraseDictionaryTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/3365/trunk/moses/src/PhraseDictionaryTree.cpp
+END
+LanguageModelSkip.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/LanguageModelSkip.h
+END
+PCNTools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/PCNTools.cpp
+END
+LanguageModelInternal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mosesdecoder/!svn/ver/3246/trunk/moses/src/LanguageModelInternal.cpp
+END
+InputType.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/3246/trunk/moses/src/InputType.cpp
+END
+LexicalReordering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/3010/trunk/moses/src/LexicalReordering.cpp
+END
+PDTAimp.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/3258/trunk/moses/src/PDTAimp.h
+END
+TranslationOptionCollection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mosesdecoder/!svn/ver/3257/trunk/moses/src/TranslationOptionCollection.cpp
+END
+LMList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/LMList.cpp
+END
+ReorderingConstraint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/3379/trunk/moses/src/ReorderingConstraint.cpp
+END
+LanguageModelRandLM.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/LanguageModelRandLM.h
+END
+LexicalReorderingState.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/LexicalReorderingState.h
+END
+DotChart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/DotChart.cpp
+END
+BilingualDynSuffixArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/BilingualDynSuffixArray.h
+END
+ScoreComponentCollection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/ScoreComponentCollection.cpp
+END
+PhraseDictionarySCFG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/3368/trunk/moses/src/PhraseDictionarySCFG.cpp
+END
+PrefixTreeMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/2933/trunk/moses/src/PrefixTreeMap.cpp
+END
+FloydWarshall.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/FloydWarshall.h
+END
+PartialTranslOptColl.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/PartialTranslOptColl.h
+END
+SearchNormal.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/SearchNormal.h
+END
+DummyScoreProducers.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/3002/trunk/moses/src/DummyScoreProducers.h
+END
+DecodeStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/DecodeStep.h
+END
+ScoreProducer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/ScoreProducer.h
+END
+StaticData.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/3265/trunk/moses/src/StaticData.h
+END
+SentenceStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/3257/trunk/moses/src/SentenceStats.h
+END
+rule.proto
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/1890/trunk/moses/src/rule.proto
+END
+hypergraph.proto
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mosesdecoder/!svn/ver/1890/trunk/moses/src/hypergraph.proto
+END
+LanguageModelSkip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/1848/trunk/moses/src/LanguageModelSkip.cpp
+END
+FactorTypeSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/1897/trunk/moses/src/FactorTypeSet.cpp
+END
+TargetPhrase.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mosesdecoder/!svn/ver/3358/trunk/moses/src/TargetPhrase.h
+END
+TranslationOptionCollectionConfusionNet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mosesdecoder/!svn/ver/2081/trunk/moses/src/TranslationOptionCollectionConfusionNet.cpp
+END
+TrellisPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/2953/trunk/moses/src/TrellisPath.h
+END
+LexicalReorderingState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/LexicalReorderingState.cpp
+END
+ObjectPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/ObjectPool.h
+END
+Search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/Search.cpp
+END
+TypeDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/3358/trunk/moses/src/TypeDef.h
+END
+LexicalReordering.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/3010/trunk/moses/src/LexicalReordering.h
+END
+LanguageModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/LanguageModel.h
+END
+LexicalReorderingTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mosesdecoder/!svn/ver/3246/trunk/moses/src/LexicalReorderingTable.cpp
+END
+DecodeGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/DecodeGraph.h
+END
+FloydWarshall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/FloydWarshall.cpp
+END
+LanguageModelMultiFactor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mosesdecoder/!svn/ver/1897/trunk/moses/src/LanguageModelMultiFactor.cpp
+END
+DecodeStep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/DecodeStep.cpp
+END
+ScoreComponentCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/ScoreComponentCollection.h
+END
+ScoreProducer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/2087/trunk/moses/src/ScoreProducer.cpp
+END
+NGramCollection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/1897/trunk/moses/src/NGramCollection.cpp
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/Util.h
+END
+gzfilebuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/gzfilebuf.h
+END
+SentenceStats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/1897/trunk/moses/src/SentenceStats.cpp
+END
+LanguageModelRemote.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/LanguageModelRemote.h
+END
+DotChartOnDisk.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/DotChartOnDisk.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/3358/trunk/moses/src/Makefile.am
+END
+ChartRule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/ChartRule.cpp
+END
+XmlOption.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/3246/trunk/moses/src/XmlOption.cpp
+END
+FactorCollection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/mosesdecoder/!svn/ver/2477/trunk/moses/src/FactorCollection.cpp
+END
+TrellisPath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/2953/trunk/moses/src/TrellisPath.cpp
+END
+FFState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/FFState.cpp
+END
+HypothesisStackNormal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/HypothesisStackNormal.cpp
+END
+FeatureFunction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/FeatureFunction.cpp
+END
+TranslationOptionCollectionConfusionNet.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/TranslationOptionCollectionConfusionNet.h
+END
+Dictionary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mosesdecoder/!svn/ver/1897/trunk/moses/src/Dictionary.cpp
+END
+PhraseDictionary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/mosesdecoder/!svn/ver/3358/trunk/moses/src/PhraseDictionary.cpp
+END
+LanguageModelJoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/1848/trunk/moses/src/LanguageModelJoint.cpp
+END
+NGramNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/1897/trunk/moses/src/NGramNode.cpp
+END
+LanguageModelSingleFactor.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/LanguageModelSingleFactor.h
+END
+ChartRuleCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/ChartRuleCollection.h
+END
+ConfusionNet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mosesdecoder/!svn/ver/3002/trunk/moses/src/ConfusionNet.cpp
+END
+TrellisPathCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/TrellisPathCollection.h
+END
+Factor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/1897/trunk/moses/src/Factor.cpp
+END
+LexicalReorderingTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/3002/trunk/moses/src/LexicalReorderingTable.h
+END
+Parameter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/3304/trunk/moses/src/Parameter.cpp
+END
+Word.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/Word.h
+END
+WordsRange.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/3002/trunk/moses/src/WordsRange.h
+END
+LanguageModelSRI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/mosesdecoder/!svn/ver/3115/trunk/moses/src/LanguageModelSRI.cpp
+END
+LanguageModelMultiFactor.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/LanguageModelMultiFactor.h
+END
+SquareMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mosesdecoder/!svn/ver/1964/trunk/moses/src/SquareMatrix.cpp
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/hash.h
+END
+FactorCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/FactorCollection.h
+END
+DecodeStepGeneration.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/DecodeStepGeneration.h
+END
+PhraseDictionaryOnDiskChart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/PhraseDictionaryOnDiskChart.cpp
+END
+HypothesisStackNormal.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/HypothesisStackNormal.h
+END
+TargetPhraseCollection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/TargetPhraseCollection.cpp
+END
+InputType.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/3222/trunk/moses/src/InputType.h
+END
+PCNTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/PCNTools.h
+END
+LanguageModelInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/LanguageModelInternal.h
+END
+TrellisPathCollection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mosesdecoder/!svn/ver/1897/trunk/moses/src/TrellisPathCollection.cpp
+END
+LVoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/LVoc.h
+END
+Sentence.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/3138/trunk/moses/src/Sentence.h
+END
+ReorderingConstraint.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/3379/trunk/moses/src/ReorderingConstraint.h
+END
+Word.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/Word.cpp
+END
+WordsRange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mosesdecoder/!svn/ver/1897/trunk/moses/src/WordsRange.cpp
+END
+SearchCubePruning.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/SearchCubePruning.h
+END
+NGramNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/NGramNode.h
+END
+ConfusionNet.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mosesdecoder/!svn/ver/3138/trunk/moses/src/ConfusionNet.h
+END
+InputFileStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/InputFileStream.h
+END
+WordLattice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/WordLattice.cpp
+END
+Phrase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/3273/trunk/moses/src/Phrase.cpp
+END
+Factor.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/Factor.h
+END
+hash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/1848/trunk/moses/src/hash.cpp
+END
+BitmapContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/3002/trunk/moses/src/BitmapContainer.h
+END
+PhraseDictionaryOnDisk.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/PhraseDictionaryOnDisk.h
+END
+HypothesisStack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/HypothesisStack.cpp
+END
+LanguageModelSRI.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/3115/trunk/moses/src/LanguageModelSRI.h
+END
+TranslationOptionList.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/TranslationOptionList.h
+END
+UserMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/UserMessage.h
+END
+AlignmentInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/AlignmentInfo.cpp
+END
+DecodeStepGeneration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/3246/trunk/moses/src/DecodeStepGeneration.cpp
+END
+LanguageModelParallelBackoff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/LanguageModelParallelBackoff.cpp
+END
+PhraseDictionarySCFGChart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/PhraseDictionarySCFGChart.cpp
+END
+ScoreIndexManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/3002/trunk/moses/src/ScoreIndexManager.cpp
+END
+WordsBitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/3246/trunk/moses/src/WordsBitmap.h
+END
+PhraseDictionaryMemory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mosesdecoder/!svn/ver/3381/trunk/moses/src/PhraseDictionaryMemory.cpp
+END
+LanguageModelFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/LanguageModelFactory.h
+END
+LVoc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/1848/trunk/moses/src/LVoc.cpp
+END
+LanguageModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/3246/trunk/moses/src/LanguageModel.cpp
+END
+LanguageModelIRST.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/3316/trunk/moses/src/LanguageModelIRST.cpp
+END
+SearchCubePruning.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/3219/trunk/moses/src/SearchCubePruning.cpp
+END
+WordConsumed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/WordConsumed.cpp
+END
+Manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/3265/trunk/moses/src/Manager.cpp
+END
+Search.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/Search.h
+END
+InputFileStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/2780/trunk/moses/src/InputFileStream.cpp
+END
+PhraseDictionaryDynSuffixArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/PhraseDictionaryDynSuffixArray.h
+END
+TranslationOptionCollectionText.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/TranslationOptionCollectionText.h
+END
+BitmapContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/3246/trunk/moses/src/BitmapContainer.cpp
+END
+LanguageModelRemote.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/LanguageModelRemote.cpp
+END
+DotChartOnDisk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/DotChartOnDisk.cpp
+END
+PhraseDictionaryNodeSCFG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/PhraseDictionaryNodeSCFG.cpp
+END
+GenerationDictionary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/2087/trunk/moses/src/GenerationDictionary.cpp
+END
+TranslationOptionList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/TranslationOptionList.cpp
+END
+UserMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/1897/trunk/moses/src/UserMessage.cpp
+END
+File.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/File.h
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/Timer.h
+END
+ReorderingStack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/ReorderingStack.cpp
+END
+Phrase.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/Phrase.h
+END
+GlobalLexicalModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/GlobalLexicalModel.h
+END
+WordsBitmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/1897/trunk/moses/src/WordsBitmap.cpp
+END
+PhraseDictionaryTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/3258/trunk/moses/src/PhraseDictionaryTree.h
+END
+DecodeStepTranslation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/DecodeStepTranslation.cpp
+END
+ChartRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/ChartRule.h
+END
+XmlOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/XmlOption.h
+END
+AlignmentInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/AlignmentInfo.h
+END
+CellCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/CellCollection.h
+END
+ScoreIndexManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/ScoreIndexManager.h
+END
+BilingualDynSuffixArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/BilingualDynSuffixArray.cpp
+END
+FeatureFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/FeatureFunction.h
+END
+PhraseDictionaryDynSuffixArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/PhraseDictionaryDynSuffixArray.cpp
+END
+PhraseDictionaryTreeAdaptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mosesdecoder/!svn/ver/3138/trunk/moses/src/PhraseDictionaryTreeAdaptor.h
+END
+LMList.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/3078/trunk/moses/src/LMList.h
+END
+Dictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/Dictionary.h
+END
+LanguageModelIRST.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/LanguageModelIRST.h
+END
+PartialTranslOptColl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/1897/trunk/moses/src/PartialTranslOptColl.cpp
+END
+DotChart.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/DotChart.h
+END
+Manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/3265/trunk/moses/src/Manager.h
+END
+File.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/1848/trunk/moses/src/File.cpp
+END
+StaticData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mosesdecoder/!svn/ver/3253/trunk/moses/src/StaticData.cpp
+END
+PrefixTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/PrefixTree.h
+END
+GlobalLexicalModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/GlobalLexicalModel.cpp
+END
+TreeInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/TreeInput.h
+END
+TargetPhrase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mosesdecoder/!svn/ver/3358/trunk/moses/src/TargetPhrase.cpp
+END
+SquareMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/SquareMatrix.h
+END
+ReorderingStack.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses/src/ReorderingStack.h
+END
+HypothesisStackCubePruning.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/HypothesisStackCubePruning.h
+END
+TranslationOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/3002/trunk/moses/src/TranslationOption.h
+END

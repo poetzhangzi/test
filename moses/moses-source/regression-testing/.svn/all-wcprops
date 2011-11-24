@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/3383/trunk/regression-testing
+END
+compare-results.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mosesdecoder/!svn/ver/1344/trunk/regression-testing/compare-results.pl
+END
+MosesRegressionTesting.pm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/3368/trunk/regression-testing/MosesRegressionTesting.pm
+END
+run-test-suite.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mosesdecoder/!svn/ver/3383/trunk/regression-testing/run-test-suite.pl
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mosesdecoder/!svn/ver/650/trunk/regression-testing/.project
+END
+run-single-test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mosesdecoder/!svn/ver/1344/trunk/regression-testing/run-single-test.pl
+END

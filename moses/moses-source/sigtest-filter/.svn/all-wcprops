@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mosesdecoder/!svn/ver/3143/trunk/sigtest-filter
+END
+WIN32_functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/1509/trunk/sigtest-filter/WIN32_functions.h
+END
+sigtest-filter.sln
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/1454/trunk/sigtest-filter/sigtest-filter.sln
+END
+check-install
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/1438/trunk/sigtest-filter/check-install
+END
+filter-pt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/1509/trunk/sigtest-filter/filter-pt.cpp
+END
+sigtest-filter.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mosesdecoder/!svn/ver/1509/trunk/sigtest-filter/sigtest-filter.vcproj
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/2219/trunk/sigtest-filter/README.txt
+END
+WIN32_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/1509/trunk/sigtest-filter/WIN32_functions.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/3143/trunk/sigtest-filter/Makefile
+END

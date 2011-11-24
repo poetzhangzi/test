@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/1484/trunk/scripts/training/cmert-0.5/example
+END
+names.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/1484/trunk/scripts/training/cmert-0.5/example/names.txt
+END
+feats.opt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/1476/trunk/scripts/training/cmert-0.5/example/feats.opt
+END
+init.opt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mosesdecoder/!svn/ver/1483/trunk/scripts/training/cmert-0.5/example/init.opt
+END
+cands.opt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/1476/trunk/scripts/training/cmert-0.5/example/cands.opt
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mosesdecoder/!svn/ver/1484/trunk/scripts/training/cmert-0.5/example/readme.txt
+END

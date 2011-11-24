@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mosesdecoder/!svn/ver/2573/trunk/scripts/regression-testing
+END
+compare-results.pl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/compare-results.pl
+END
+run-test-suite.pl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/2569/trunk/scripts/regression-testing/run-test-suite.pl
+END
+modify-pars.pl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/modify-pars.pl
+END
+moses-virtual.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mosesdecoder/!svn/ver/2567/trunk/scripts/regression-testing/moses-virtual.pl
+END
+MosesScriptsRegressionTesting.pm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/MosesScriptsRegressionTesting.pm
+END
+create_localized_moses_ini.pl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/create_localized_moses_ini.pl
+END
+moses-virtual
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/moses-virtual
+END
+run-single-test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/run-single-test.pl
+END

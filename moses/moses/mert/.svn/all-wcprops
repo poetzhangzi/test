@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/mosesdecoder/!svn/ver/3125/trunk/mert
+END
+Point.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mosesdecoder/!svn/ver/1796/trunk/mert/Point.h
+END
+ScoreStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mosesdecoder/!svn/ver/1905/trunk/mert/ScoreStats.h
+END
+normalise.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mosesdecoder/!svn/ver/1673/trunk/mert/normalise.py
+END
+PerScorer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/1796/trunk/mert/PerScorer.cpp
+END
+ScoreData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/1860/trunk/mert/ScoreData.cpp
+END
+mert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mosesdecoder/!svn/ver/2645/trunk/mert/mert.cpp
+END
+BleuScorer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mosesdecoder/!svn/ver/2459/trunk/mert/BleuScorer.h
+END
+extractor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/1969/trunk/mert/extractor.cpp
+END
+Util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mosesdecoder/!svn/ver/1969/trunk/mert/Util.cpp
+END
+Data.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mosesdecoder/!svn/ver/1824/trunk/mert/Data.h
+END
+ScoreArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mosesdecoder/!svn/ver/1824/trunk/mert/ScoreArray.h
+END
+FeatureStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/1824/trunk/mert/FeatureStats.h
+END
+Optimizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/3125/trunk/mert/Optimizer.cpp
+END
+FeatureData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/1942/trunk/mert/FeatureData.cpp
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mosesdecoder/!svn/ver/1969/trunk/mert/Timer.h
+END
+Point.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mosesdecoder/!svn/ver/2554/trunk/mert/Point.cpp
+END
+ScorerFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/1860/trunk/mert/ScorerFactory.h
+END
+ScoreStats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/1824/trunk/mert/ScoreStats.cpp
+END
+test_scorer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/1796/trunk/mert/test_scorer.cpp
+END
+FeatureArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/1819/trunk/mert/FeatureArray.h
+END
+Scorer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mosesdecoder/!svn/ver/2459/trunk/mert/Scorer.h
+END
+test_scorer.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/1678/trunk/mert/test_scorer.py
+END
+BleuScorer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/2459/trunk/mert/BleuScorer.cpp
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/mosesdecoder/!svn/ver/1905/trunk/mert/Types.h
+END
+Data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mosesdecoder/!svn/ver/1969/trunk/mert/Data.cpp
+END
+PerScorer.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/1860/trunk/mert/PerScorer.h
+END
+ScoreData.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/1796/trunk/mert/ScoreData.h
+END
+ScoreArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/1942/trunk/mert/ScoreArray.cpp
+END
+FeatureStats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/1824/trunk/mert/FeatureStats.cpp
+END
+Timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mosesdecoder/!svn/ver/1969/trunk/mert/Timer.cpp
+END
+gzfilebuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/1788/trunk/mert/gzfilebuf.h
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mosesdecoder/!svn/ver/1969/trunk/mert/Util.h
+END
+init.opt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mosesdecoder/!svn/ver/1731/trunk/mert/init.opt
+END
+Optimizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/1782/trunk/mert/Optimizer.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/2950/trunk/mert/Makefile.am
+END
+FeatureArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/1819/trunk/mert/FeatureArray.cpp
+END
+FeatureData.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/2645/trunk/mert/FeatureData.h
+END
+Scorer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mosesdecoder/!svn/ver/1860/trunk/mert/Scorer.cpp
+END

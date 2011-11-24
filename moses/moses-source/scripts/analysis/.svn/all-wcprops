@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/3345/trunk/scripts/analysis
+END
+sg2dot.perl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/2850/trunk/scripts/analysis/sg2dot.perl
+END
+nontranslated_words.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mosesdecoder/!svn/ver/1307/trunk/scripts/analysis/nontranslated_words.pl
+END
+sentence-by-sentence.pl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mosesdecoder/!svn/ver/1307/trunk/scripts/analysis/sentence-by-sentence.pl
+END
+show-phrases-used.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mosesdecoder/!svn/ver/2795/trunk/scripts/analysis/show-phrases-used.pl
+END
+bootstrap-hypothesis-difference-significance.pl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mosesdecoder/!svn/ver/3345/trunk/scripts/analysis/bootstrap-hypothesis-difference-significance.pl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/771/trunk/scripts/analysis/README
+END
+oov.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/3192/trunk/scripts/analysis/oov.pl
+END
+suspicious_tokenization.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mosesdecoder/!svn/ver/2852/trunk/scripts/analysis/suspicious_tokenization.pl
+END

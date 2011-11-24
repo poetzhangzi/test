@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/reranking/src
+END
+Hypo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/1773/trunk/reranking/src/Hypo.cpp
+END
+NBest.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/1773/trunk/reranking/src/NBest.h
+END
+Tools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/1773/trunk/reranking/src/Tools.cpp
+END
+ParameterNBest.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/reranking/src/ParameterNBest.h
+END
+Hypo.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/1773/trunk/reranking/src/Hypo.h
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/1773/trunk/reranking/src/Main.cpp
+END
+Tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/1773/trunk/reranking/src/Tools.h
+END
+NBest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/1773/trunk/reranking/src/NBest.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/2347/trunk/reranking/src/Makefile
+END
+ParameterNBest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/1773/trunk/reranking/src/ParameterNBest.cpp
+END

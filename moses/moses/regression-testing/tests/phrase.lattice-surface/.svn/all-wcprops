@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-surface
+END
+filter-stdout.pl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-surface/filter-stdout.pl
+END
+filter-stderr.pl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-surface/filter-stderr.pl
+END
+moses.ini
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-surface/moses.ini
+END
+to-translate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-surface/to-translate.txt
+END

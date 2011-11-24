@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/recaser
+END
+train-recaser.perl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/1326/trunk/scripts/recaser/train-recaser.perl
+END
+recase.perl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/1335/trunk/scripts/recaser/recase.perl
+END
+detokenizer.perl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/2846/trunk/scripts/recaser/detokenizer.perl
+END
+detruecase.perl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/2112/trunk/scripts/recaser/detruecase.perl
+END
+train-truecaser.perl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mosesdecoder/!svn/ver/2987/trunk/scripts/recaser/train-truecaser.perl
+END
+truecase.perl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/recaser/truecase.perl
+END

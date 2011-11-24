@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-distortion
+END
+filter-stdout.pl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-distortion/filter-stdout.pl
+END
+phrase-table.binphr.tgtdata
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-distortion/phrase-table.binphr.tgtdata
+END
+small.lm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-distortion/small.lm
+END
+filter-stderr.pl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-distortion/filter-stderr.pl
+END
+CMD
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-distortion/CMD
+END
+moses.ini
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-distortion/moses.ini
+END
+phrase-table.binphr.srcvoc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-distortion/phrase-table.binphr.srcvoc
+END
+phrase-table
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-distortion/phrase-table
+END
+filter-nbest.pl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-distortion/filter-nbest.pl
+END
+phrase-table.binphr.idx
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-distortion/phrase-table.binphr.idx
+END
+to-translate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-distortion/to-translate.txt
+END
+phrase-table.binphr.tgtvoc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-distortion/phrase-table.binphr.tgtvoc
+END
+phrase-table.binphr.srctree
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-distortion/phrase-table.binphr.srctree
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mosesdecoder/!svn/ver/3224/trunk/scripts/ems/example/data
+END
+test-ref.en.sgm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mosesdecoder/!svn/ver/3224/trunk/scripts/ems/example/data/test-ref.en.sgm
+END
+test-src.fr.sgm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mosesdecoder/!svn/ver/3224/trunk/scripts/ems/example/data/test-src.fr.sgm
+END
+nc-5k.fr
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/3224/trunk/scripts/ems/example/data/nc-5k.fr
+END
+weight.ini
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mosesdecoder/!svn/ver/3224/trunk/scripts/ems/example/data/weight.ini
+END
+nc-5k.en
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/3224/trunk/scripts/ems/example/data/nc-5k.en
+END

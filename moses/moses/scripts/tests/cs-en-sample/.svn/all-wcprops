@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/899/trunk/scripts/tests/cs-en-sample
+END
+train.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/899/trunk/scripts/tests/cs-en-sample/train.cs
+END
+test.src
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/899/trunk/scripts/tests/cs-en-sample/test.src
+END
+lm.en.gz
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/899/trunk/scripts/tests/cs-en-sample/lm.en.gz
+END
+test.ref
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/899/trunk/scripts/tests/cs-en-sample/test.ref
+END
+train.en
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/899/trunk/scripts/tests/cs-en-sample/train.en
+END

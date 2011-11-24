@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/mosesdecoder/!svn/ver/3301/trunk/misc
+END
+.cdtproject
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/1350/trunk/misc/.cdtproject
+END
+queryLexicalTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mosesdecoder/!svn/ver/3002/trunk/misc/queryLexicalTable.cpp
+END
+queryPhraseTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/3259/trunk/misc/queryPhraseTable.cpp
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mosesdecoder/!svn/ver/1954/trunk/misc/.project
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mosesdecoder/!svn/ver/3015/trunk/misc/.cproject
+END
+.cdtbuild
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mosesdecoder/!svn/ver/1900/trunk/misc/.cdtbuild
+END
+GenerateTuples.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/1898/trunk/misc/GenerateTuples.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/3259/trunk/misc/Makefile.am
+END
+processLexicalTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/1897/trunk/misc/processLexicalTable.cpp
+END
+processLexicalTable.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/3301/trunk/misc/processLexicalTable.vcproj
+END
+processPhraseTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/1897/trunk/misc/processPhraseTable.cpp
+END
+processPhraseTable.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/mosesdecoder/!svn/ver/3301/trunk/misc/processPhraseTable.vcproj
+END
+GenerateTuples.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/359/trunk/misc/GenerateTuples.h
+END

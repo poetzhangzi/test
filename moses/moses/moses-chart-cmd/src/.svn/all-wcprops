@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart-cmd/src
+END
+mbr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart-cmd/src/mbr.cpp
+END
+TranslationAnalysis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart-cmd/src/TranslationAnalysis.cpp
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart-cmd/src/Main.cpp
+END
+mbr.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart-cmd/src/mbr.h
+END
+TranslationAnalysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart-cmd/src/TranslationAnalysis.h
+END
+IOWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart-cmd/src/IOWrapper.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/3121/trunk/moses-chart-cmd/src/Makefile.am
+END
+Main.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart-cmd/src/Main.h
+END
+IOWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart-cmd/src/IOWrapper.h
+END

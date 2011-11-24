@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/3386/trunk/scripts/training/phrase-extract
+END
+extract-rules.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mosesdecoder/!svn/ver/3386/trunk/scripts/training/phrase-extract/extract-rules.cpp
+END
+SentenceAlignment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mosesdecoder/!svn/ver/3350/trunk/scripts/training/phrase-extract/SentenceAlignment.cpp
+END
+consolidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mosesdecoder/!svn/ver/3363/trunk/scripts/training/phrase-extract/consolidate.cpp
+END
+phrase-extract.sln
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mosesdecoder/!svn/ver/3385/trunk/scripts/training/phrase-extract/phrase-extract.sln
+END
+tables-core.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mosesdecoder/!svn/ver/3126/trunk/scripts/training/phrase-extract/tables-core.h
+END
+SentenceAlignmentWithSyntax.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/mosesdecoder/!svn/ver/3350/trunk/scripts/training/phrase-extract/SentenceAlignmentWithSyntax.cpp
+END
+HoleCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mosesdecoder/!svn/ver/3129/trunk/scripts/training/phrase-extract/HoleCollection.h
+END
+extract.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mosesdecoder/!svn/ver/3131/trunk/scripts/training/phrase-extract/extract.cpp
+END
+SyntaxTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/3126/trunk/scripts/training/phrase-extract/SyntaxTree.h
+END
+ExtractedRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mosesdecoder/!svn/ver/3129/trunk/scripts/training/phrase-extract/ExtractedRule.h
+END
+score.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mosesdecoder/!svn/ver/3369/trunk/scripts/training/phrase-extract/score.h
+END
+AlignmentPhrase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mosesdecoder/!svn/ver/1352/trunk/scripts/training/phrase-extract/AlignmentPhrase.cpp
+END
+hierarchical.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mosesdecoder/!svn/ver/3002/trunk/scripts/training/phrase-extract/hierarchical.h
+END
+extract-rules.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mosesdecoder/!svn/ver/3132/trunk/scripts/training/phrase-extract/extract-rules.vcproj
+END
+XmlTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mosesdecoder/!svn/ver/3126/trunk/scripts/training/phrase-extract/XmlTree.h
+END
+consolidate.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mosesdecoder/!svn/ver/3385/trunk/scripts/training/phrase-extract/consolidate.vcproj
+END
+PhraseAlignment.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mosesdecoder/!svn/ver/3372/trunk/scripts/training/phrase-extract/PhraseAlignment.h
+END
+relax-parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/relax-parse.h
+END
+RuleExist.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mosesdecoder/!svn/ver/3129/trunk/scripts/training/phrase-extract/RuleExist.h
+END
+RuleExtractionOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mosesdecoder/!svn/ver/3129/trunk/scripts/training/phrase-extract/RuleExtractionOptions.h
+END
+extract.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mosesdecoder/!svn/ver/3132/trunk/scripts/training/phrase-extract/extract.vcproj
+END
+Hole.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mosesdecoder/!svn/ver/3129/trunk/scripts/training/phrase-extract/Hole.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mosesdecoder/!svn/ver/3369/trunk/scripts/training/phrase-extract/Makefile
+END
+score.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/3385/trunk/scripts/training/phrase-extract/score.vcproj
+END
+tables-core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mosesdecoder/!svn/ver/3131/trunk/scripts/training/phrase-extract/tables-core.cpp
+END
+HoleCollection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mosesdecoder/!svn/ver/3129/trunk/scripts/training/phrase-extract/HoleCollection.cpp
+END
+SyntaxTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mosesdecoder/!svn/ver/3126/trunk/scripts/training/phrase-extract/SyntaxTree.cpp
+END
+SentenceAlignment.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mosesdecoder/!svn/ver/3350/trunk/scripts/training/phrase-extract/SentenceAlignment.h
+END
+SentenceAlignmentWithSyntax.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mosesdecoder/!svn/ver/3350/trunk/scripts/training/phrase-extract/SentenceAlignmentWithSyntax.h
+END
+score.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mosesdecoder/!svn/ver/3372/trunk/scripts/training/phrase-extract/score.cpp
+END
+consolidate-direct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mosesdecoder/!svn/ver/3374/trunk/scripts/training/phrase-extract/consolidate-direct.cpp
+END
+XmlTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mosesdecoder/!svn/ver/3350/trunk/scripts/training/phrase-extract/XmlTree.cpp
+END
+PhraseAlignment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mosesdecoder/!svn/ver/3372/trunk/scripts/training/phrase-extract/PhraseAlignment.cpp
+END
+relax-parse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/relax-parse.cpp
+END
+XmlException.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mosesdecoder/!svn/ver/3350/trunk/scripts/training/phrase-extract/XmlException.h
+END
+AlignmentPhrase.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mosesdecoder/!svn/ver/1352/trunk/scripts/training/phrase-extract/AlignmentPhrase.h
+END
+statistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mosesdecoder/!svn/ver/3131/trunk/scripts/training/phrase-extract/statistics.cpp
+END
+SafeGetline.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mosesdecoder/!svn/ver/3131/trunk/scripts/training/phrase-extract/SafeGetline.h
+END
+consolidate-direct.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mosesdecoder/!svn/ver/3385/trunk/scripts/training/phrase-extract/consolidate-direct.vcproj
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-surface/truth
+END
+results.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.lattice-surface/truth/results.txt
+END

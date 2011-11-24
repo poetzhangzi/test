@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mosesdecoder/!svn/ver/3387/trunk/moses-chart/src
+END
+ChartTrellisPathCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartTrellisPathCollection.h
+END
+ChartManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartManager.h
+END
+ChartCell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartCell.cpp
+END
+ChartHypothesisCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartHypothesisCollection.h
+END
+ChartTranslationOptionList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartTranslationOptionList.cpp
+END
+ChartCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartCell.h
+END
+ChartTrellisNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartTrellisNode.cpp
+END
+QueueEntry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/QueueEntry.cpp
+END
+ChartTranslationOption.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartTranslationOption.cpp
+END
+ChartTrellisPathList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartTrellisPathList.cpp
+END
+ChartTranslationOptionList.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartTranslationOptionList.h
+END
+ChartTrellisNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartTrellisNode.h
+END
+QueueEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/QueueEntry.h
+END
+ChartCellCollection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartCellCollection.cpp
+END
+ChartTrellisPath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartTrellisPath.cpp
+END
+ChartTranslationOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartTranslationOption.h
+END
+ChartTrellisPathList.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartTrellisPathList.h
+END
+Cube.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/Cube.cpp
+END
+ChartHypothesis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartHypothesis.cpp
+END
+ChartCellCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartCellCollection.h
+END
+ChartTrellisPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartTrellisPath.h
+END
+Cube.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/Cube.h
+END
+ChartTranslationOptionCollection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartTranslationOptionCollection.cpp
+END
+ChartHypothesis.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartHypothesis.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mosesdecoder/!svn/ver/3121/trunk/moses-chart/src/Makefile.am
+END
+ChartTrellisPathCollection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartTrellisPathCollection.cpp
+END
+ChartTranslationOptionCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartTranslationOptionCollection.h
+END
+ChartManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/3387/trunk/moses-chart/src/ChartManager.cpp
+END
+ChartHypothesisCollection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mosesdecoder/!svn/ver/3360/trunk/moses-chart/src/ChartHypothesisCollection.cpp
+END

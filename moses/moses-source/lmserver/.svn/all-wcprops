@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/lmserver
+END
+lmserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/lmserver.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/1991/trunk/lmserver/Makefile.in
+END
+daemon.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/daemon.c
+END
+stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/lmserver/stats.h
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/AUTHORS
+END
+lmserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/lmserver/lmserver.h
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/config.status
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/ChangeLog
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/depcomp
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/compile
+END
+thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/thread.c
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/config.guess
+END
+stamp-h1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/stamp-h1
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/mosesdecoder/!svn/ver/1992/trunk/lmserver/README
+END
+BUILD
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/BUILD
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/config.h.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/missing
+END
+srilm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/srilm.cc
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/NEWS
+END
+srilm.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/lmserver/srilm.h
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/1990/trunk/lmserver/install-sh
+END

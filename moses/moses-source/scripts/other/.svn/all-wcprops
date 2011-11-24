@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/mosesdecoder/!svn/ver/3018/trunk/scripts/other
+END
+get_many_translations_from_google.perl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mosesdecoder/!svn/ver/3017/trunk/scripts/other/get_many_translations_from_google.perl
+END
+translate_by_microsoft_bing.perl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mosesdecoder/!svn/ver/3018/trunk/scripts/other/translate_by_microsoft_bing.perl
+END

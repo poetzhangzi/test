@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm
+END
+extract-ghkm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/extract-ghkm.cpp
+END
+ParseTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/ParseTree.h
+END
+AlignmentGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/AlignmentGraph.cpp
+END
+Span.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/Span.cpp
+END
+XmlTreeParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/XmlTreeParser.h
+END
+Makefile.dep
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/Makefile.dep
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/Exception.h
+END
+AlignmentGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/AlignmentGraph.h
+END
+Span.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/Span.h
+END
+Subgraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/Subgraph.cpp
+END
+Rule.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/Rule.h
+END
+Alignment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/Alignment.cpp
+END
+Subgraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/Subgraph.h
+END
+Alignment.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/Alignment.h
+END
+ParseTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/ParseTree.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/Makefile
+END
+XmlTreeParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/mosesdecoder/!svn/ver/3137/trunk/scripts/training/phrase-extract/extract-ghkm/XmlTreeParser.cpp
+END

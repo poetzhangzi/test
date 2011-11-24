@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/1307/trunk/scripts/analysis/smtgui
+END
+file-descriptions
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mosesdecoder/!svn/ver/723/trunk/scripts/analysis/smtgui/file-descriptions
+END
+newsmtgui.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mosesdecoder/!svn/ver/1307/trunk/scripts/analysis/smtgui/newsmtgui.cgi
+END
+filter-phrase-table.pl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mosesdecoder/!svn/ver/1307/trunk/scripts/analysis/smtgui/filter-phrase-table.pl
+END
+Corpus.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/775/trunk/scripts/analysis/smtgui/Corpus.pm
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/723/trunk/scripts/analysis/smtgui/README
+END
+file-factors
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/mosesdecoder/!svn/ver/771/trunk/scripts/analysis/smtgui/file-factors
+END

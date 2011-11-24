@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mosesdecoder/!svn/ver/3312/trunk/regression-testing/tests/chart.target-syntax
+END
+filter-stdout.pl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mosesdecoder/!svn/ver/3207/trunk/regression-testing/tests/chart.target-syntax/filter-stdout.pl
+END
+filter-stderr.pl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mosesdecoder/!svn/ver/3207/trunk/regression-testing/tests/chart.target-syntax/filter-stderr.pl
+END
+moses.ini
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mosesdecoder/!svn/ver/3208/trunk/regression-testing/tests/chart.target-syntax/moses.ini
+END
+to-translate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mosesdecoder/!svn/ver/3207/trunk/regression-testing/tests/chart.target-syntax/to-translate.txt
+END

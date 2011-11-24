@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/mosesdecoder/!svn/ver/3278/trunk/moses/src/DynSAInclude
+END
+file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/3074/trunk/moses/src/DynSAInclude/file.cpp
+END
+vocab.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/mosesdecoder/!svn/ver/3232/trunk/moses/src/DynSAInclude/vocab.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/mosesdecoder/!svn/ver/3074/trunk/moses/src/DynSAInclude/file.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/mosesdecoder/!svn/ver/3074/trunk/moses/src/DynSAInclude/utils.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/mosesdecoder/!svn/ver/2939/trunk/moses/src/DynSAInclude/types.h
+END
+fdstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/3074/trunk/moses/src/DynSAInclude/fdstream.h
+END
+vocab.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/3278/trunk/moses/src/DynSAInclude/vocab.cpp
+END

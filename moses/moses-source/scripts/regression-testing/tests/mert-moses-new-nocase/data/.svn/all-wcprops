@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/data
+END
+run1.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/data/run1.TRANS.out
+END
+run2.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/data/run2.TRANS.out
+END
+run3.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/data/run3.TRANS.out
+END
+run1.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/data/run1.NBEST.out.gz
+END
+run4.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/data/run4.TRANS.out
+END
+run2.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/data/run2.NBEST.out.gz
+END
+run5.TRANS.out
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/data/run5.TRANS.out
+END
+run3.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/data/run3.NBEST.out.gz
+END
+run4.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/data/run4.NBEST.out.gz
+END
+run5.NBEST.out.gz
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/mosesdecoder/!svn/ver/2566/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/data/run5.NBEST.out.gz
+END
+archive.list
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/tests/mert-moses-new-nocase/data/archive.list
+END

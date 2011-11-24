@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/mosesdecoder/!svn/ver/678/trunk/misc/java-utils
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/499/trunk/misc/java-utils/.classpath
+END
+ProcessShallowParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mosesdecoder/!svn/ver/678/trunk/misc/java-utils/ProcessShallowParse.java
+END
+ShrinkSentence.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/678/trunk/misc/java-utils/ShrinkSentence.java
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mosesdecoder/!svn/ver/499/trunk/misc/java-utils/.project
+END
+TagHierarchy.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/678/trunk/misc/java-utils/TagHierarchy.java
+END
+CombineTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mosesdecoder/!svn/ver/677/trunk/misc/java-utils/CombineTags.java
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/mosesdecoder/!svn/ver/499/trunk/misc/java-utils/.cvsignore
+END

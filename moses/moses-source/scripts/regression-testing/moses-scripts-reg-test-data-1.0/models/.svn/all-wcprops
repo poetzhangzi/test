@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/moses-scripts-reg-test-data-1.0/models
+END
+reordering-table.msd-bidirectional-fe.0.5.0-0.gz
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/moses-scripts-reg-test-data-1.0/models/reordering-table.msd-bidirectional-fe.0.5.0-0.gz
+END
+phrase-table.0-0.gz
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/mosesdecoder/!svn/ver/2557/trunk/scripts/regression-testing/moses-scripts-reg-test-data-1.0/models/phrase-table.0-0.gz
+END

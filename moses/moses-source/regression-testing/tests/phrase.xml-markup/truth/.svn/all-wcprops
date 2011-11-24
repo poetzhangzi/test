@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.xml-markup/truth
+END
+results.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.xml-markup/truth/results.txt
+END

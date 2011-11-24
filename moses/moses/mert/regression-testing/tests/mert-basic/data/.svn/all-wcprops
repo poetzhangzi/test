@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/tests/mert-basic/data
+END
+FEATSTAT.bin
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/tests/mert-basic/data/FEATSTAT.bin
+END
+INIT
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/tests/mert-basic/data/INIT
+END
+SCORESTAT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/tests/mert-basic/data/SCORESTAT.txt
+END
+FEATSTAT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/tests/mert-basic/data/FEATSTAT.txt
+END
+SCORESTAT.bin
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/2551/trunk/mert/regression-testing/tests/mert-basic/data/SCORESTAT.bin
+END

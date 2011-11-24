@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mosesdecoder/!svn/ver/1694/trunk/hypergraph-prototype/attempt1/org/statmt/ghgd
+END
+Or.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mosesdecoder/!svn/ver/1645/trunk/hypergraph-prototype/attempt1/org/statmt/ghgd/Or.java
+END
+And.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/mosesdecoder/!svn/ver/1694/trunk/hypergraph-prototype/attempt1/org/statmt/ghgd/And.java
+END
+Derivation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/mosesdecoder/!svn/ver/1645/trunk/hypergraph-prototype/attempt1/org/statmt/ghgd/Derivation.java
+END
+ViterbiVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mosesdecoder/!svn/ver/1645/trunk/hypergraph-prototype/attempt1/org/statmt/ghgd/ViterbiVisitor.java
+END
+PhrasePairRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mosesdecoder/!svn/ver/1645/trunk/hypergraph-prototype/attempt1/org/statmt/ghgd/PhrasePairRule.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mosesdecoder/!svn/ver/1645/trunk/hypergraph-prototype/attempt1/org/statmt/ghgd/Rule.java
+END
+Weight.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/mosesdecoder/!svn/ver/1645/trunk/hypergraph-prototype/attempt1/org/statmt/ghgd/Weight.java
+END
+TestHyperGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mosesdecoder/!svn/ver/1694/trunk/hypergraph-prototype/attempt1/org/statmt/ghgd/TestHyperGraph.java
+END
+SCFGRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/1645/trunk/hypergraph-prototype/attempt1/org/statmt/ghgd/SCFGRule.java
+END
+FloatArrayWeight.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/mosesdecoder/!svn/ver/1645/trunk/hypergraph-prototype/attempt1/org/statmt/ghgd/FloatArrayWeight.java
+END
+FWeight.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mosesdecoder/!svn/ver/1645/trunk/hypergraph-prototype/attempt1/org/statmt/ghgd/FWeight.java
+END

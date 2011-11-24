@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mosesdecoder/!svn/ver/3380/trunk/scripts/tokenizer
+END
+detokenizer.perl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mosesdecoder/!svn/ver/3224/trunk/scripts/tokenizer/detokenizer.perl
+END
+lowercase.perl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/3380/trunk/scripts/tokenizer/lowercase.perl
+END
+tokenizer.perl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mosesdecoder/!svn/ver/3224/trunk/scripts/tokenizer/tokenizer.perl
+END

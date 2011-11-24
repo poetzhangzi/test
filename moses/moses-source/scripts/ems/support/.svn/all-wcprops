@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mosesdecoder/!svn/ver/3284/trunk/scripts/ems/support
+END
+generic-parallelizer.perl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/mosesdecoder/!svn/ver/2724/trunk/scripts/ems/support/generic-parallelizer.perl
+END
+generic-multicore-parallelizer.perl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mosesdecoder/!svn/ver/2724/trunk/scripts/ems/support/generic-multicore-parallelizer.perl
+END
+remove-segmenation-markup.perl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mosesdecoder/!svn/ver/3234/trunk/scripts/ems/support/remove-segmenation-markup.perl
+END
+analysis.perl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/3284/trunk/scripts/ems/support/analysis.perl
+END
+reference-from-sgm.perl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mosesdecoder/!svn/ver/3262/trunk/scripts/ems/support/reference-from-sgm.perl
+END
+consolidate-training-data.perl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mosesdecoder/!svn/ver/2724/trunk/scripts/ems/support/consolidate-training-data.perl
+END
+input-from-sgm.perl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mosesdecoder/!svn/ver/3224/trunk/scripts/ems/support/input-from-sgm.perl
+END
+berkeley-train.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mosesdecoder/!svn/ver/3224/trunk/scripts/ems/support/berkeley-train.sh
+END
+report-experiment-scores.perl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mosesdecoder/!svn/ver/2724/trunk/scripts/ems/support/report-experiment-scores.perl
+END
+berkeley-process.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mosesdecoder/!svn/ver/3224/trunk/scripts/ems/support/berkeley-process.sh
+END
+wrap-xml.perl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mosesdecoder/!svn/ver/2724/trunk/scripts/ems/support/wrap-xml.perl
+END
+reuse-weights.perl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mosesdecoder/!svn/ver/2724/trunk/scripts/ems/support/reuse-weights.perl
+END
+interpolate-lm.perl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mosesdecoder/!svn/ver/3262/trunk/scripts/ems/support/interpolate-lm.perl
+END
+run-command-on-multiple-refsets.perl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/mosesdecoder/!svn/ver/3262/trunk/scripts/ems/support/run-command-on-multiple-refsets.perl
+END

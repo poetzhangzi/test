@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.xml-markup
+END
+filter-stdout.pl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.xml-markup/filter-stdout.pl
+END
+phrase-table.binphr.tgtdata
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.xml-markup/phrase-table.binphr.tgtdata
+END
+filter-stderr.pl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.xml-markup/filter-stderr.pl
+END
+moses.ini
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.xml-markup/moses.ini
+END
+phrase-table.binphr.srcvoc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.xml-markup/phrase-table.binphr.srcvoc
+END
+phrase-table
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.xml-markup/phrase-table
+END
+filter-nbest.pl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.xml-markup/filter-nbest.pl
+END
+phrase-table.binphr.idx
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.xml-markup/phrase-table.binphr.idx
+END
+to-translate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.xml-markup/to-translate.txt
+END
+phrase-table.binphr.tgtvoc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.xml-markup/phrase-table.binphr.tgtvoc
+END
+phrase-table.binphr.srctree
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/mosesdecoder/!svn/ver/3204/trunk/regression-testing/tests/phrase.xml-markup/phrase-table.binphr.srctree
+END
